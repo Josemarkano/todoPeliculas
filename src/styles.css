@@ -1,0 +1,33 @@
+.svg-item {
+    width: 50%;
+    font-size: 8px;
+    margin: 0 auto;
+  }
+  .donut-ring {
+      stroke: #EBEBEB;
+  }
+  .donut-segment {
+      transform-origin: center;
+      stroke: #FF6200;
+  }
+  .segment-1{fill:#ccc;}
+  .donut-text {
+      font-family: Arial, Helvetica, sans-serif;
+      fill: #FF6200;
+  }
+  .donut-text-1 {
+      fill: black;
+  }
+  .donut-data {
+      font-size: 0.12em;
+      line-height: 1;
+      transform: translateY(0.5em);
+      text-align: center;
+      text-anchor: middle;
+      color:#666;
+      fill: #666;
+  }
+  .svg-item {
+    max-width:20%;
+    display:inline-block;
+  }
