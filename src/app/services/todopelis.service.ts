@@ -10,7 +10,7 @@ import { Tserie, Serie } from '../interfaces/serie-interface';
 })
 export class TodopelisService {
 
-  private apiKey: string = '8317cfba8ad41a7bd81c95444054d596';
+  private apiKey: string = '1025a5aba0d1884e88cdbd5bcfc108e7';
   private apiUrl: string = 'https://api.themoviedb.org/3/';
 
   constructor( private http: HttpClient ) { }
